@@ -31,3 +31,22 @@ ul {
   color: #ffffff;
   justify-content: space-around;
 }
+
+.main-content {
+  display: flex;
+  margin: 10px;
+}
+
+.aside-content {
+  width: 20%;
+}
+
+.aside-card {
+  width: 60%;
+  padding: 10px;
+  margin: 20px auto;
+}
+
+.about {
+  background-color: #efeeee;
+}
