@@ -18,3 +18,16 @@ ul {
   margin: 0;
   padding: 0;
 }
+
+.title {
+  margin: 10px;
+}
+
+.nav-list {
+  display: flex;
+  margin: 10px;
+  padding: 10px;
+  background-color: #000000;
+  color: #ffffff;
+  justify-content: space-around;
+}
