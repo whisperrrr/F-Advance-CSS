@@ -74,6 +74,11 @@ ul {
   padding: 20px;
 }
 
+.view-details {
+  text-decoration: none;
+  color: #1261f1;
+}
+
 .login-aside {
   width: 30%;
 }
@@ -118,4 +123,15 @@ ul {
   background-color: #1261f1;
   border: 0;
   border-radius: 5px;
+}
+
+.footer-info {
+  text-align: center;
+  background-color: #efeeee;
+  color: gray;
+  padding: 20px;
+}
+
+.block {
+  display: block;
 }
